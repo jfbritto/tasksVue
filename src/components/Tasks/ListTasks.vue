@@ -13,7 +13,7 @@
 
         <div class="table-responsive">
             <table class="table table-sm table-hover table-striped">
-                <caption>Lista de tarefas</caption>
+                <caption>Lista de Tarefas</caption>
                 <thead class="thead-dark">
                     <tr>
                         <th>ID</th>
